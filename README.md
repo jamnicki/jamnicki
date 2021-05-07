@@ -21,10 +21,9 @@
   <a><img src="https://img.shields.io/badge/-OpenCV-645BFF?style=flat&logo=opencv" /></a>
   <a><img src="https://img.shields.io/badge/-NumPy-4DABCF?style=flat&logo=numpy&logoColor=284e9c" /></a>
   <a><img src="https://img.shields.io/badge/-pandas-130654?style=flat&logo=pandas&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-scikit learn-398BBA?style=flat&logo=scikit-learn&logoColor=darkorange" /></a>
   <a><img src="https://img.shields.io/badge/-TensorFlow-white?style=flat&logo=tensorflow" /></a>
-  <a><img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/-SQL Oracle-3A3632?style=flat&logo=oracle&logoColor=C74634" /></a>
   <a><img src="https://img.shields.io/badge/-SQLite-194A5C?style=flat&logo=sqlite&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-git-F0F0E7?style=flat&logo=git&logoColor=F24D27" /></a>
