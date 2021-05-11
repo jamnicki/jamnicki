@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <a>I'm a 21 years old student of <b>Systems Engineering</b> at Wrocław University of Science and Technology.<br>In my spare time I'm working on PWr Diving Crew project created by </a><a href="http://robocik.pwr.edu.pl/"><b>Science Club "Robocik"</b></a>
+  <a>I'm a 21 years old student of <b>Systems Engineering</b> at Wrocław University of Science and Technology.<br>In my spare time I'm working on PWr Diving Crew project created by </a><a href="http://robocik.pwr.edu.pl/" target="_blank" rel="noopener noreferrer"><b>Science Club "Robocik"</b></a>
 </p>
 
 <h3 align="center">:mailbox: Reach out to me!</h3>
