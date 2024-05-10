@@ -35,10 +35,9 @@
   <a><img src="https://img.shields.io/badge/-Tensorflow-lightgray?style=flat&logo=tensorflow&logoColor=FF6F00" /></a>
   <a><img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-scikit learn-3499CD?style=flat&logo=scikit-learn&logoColor=F7931E" /></a>
-  <a><img src="https://img.shields.io/badge/-spaCy-white?style=flat&logo=spaCy&logoColor=09A3D5" /></a>
+  <a><img src="https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spaCy&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-NLTK-144D58?style=flat" /></a>
   <a><img src="https://img.shields.io/badge/-OpenCV-645BFF?style=flat&logo=opencv" /></a>
-  <a><img src="https://img.shields.io/badge/-pandas-130654?style=flat&logo=pandas&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-wandb-gray?style=flat&logo=weightsandbiases&logoColor=FFBE00" /></a>
   <a><img src="https://img.shields.io/badge/-Ray-028CF0?style=flat&logo=ray&logoColor=white" /></a>
@@ -46,6 +45,8 @@
 
 <h3 align="center">Data</h3>
 <p align="center">
+  <a><img src="https://img.shields.io/badge/-pandas-130654?style=flat&logo=pandas&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-Polars-0075FF?style=flat&logo=polars&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" /></a>
