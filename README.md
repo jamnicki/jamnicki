@@ -14,8 +14,9 @@
 <h2 align="center">:mailbox: Reach out to me!</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jamnicki/"><img src="https://img.shields.io/badge/-jamnicki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jedrzej.jamnicki@gmail.com"><img src="https://img.shields.io/badge/-jedrzej.jamnicki@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jamnicki/"><img src="https://img.shields.io/badge/-jamnicki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-jjamnicki-5865F2?style=flat&logo=discord&logoColor=white" /></a>
 </p>
 
 
