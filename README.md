@@ -6,19 +6,20 @@
   </a>
   <br><br>
   <a>
-    I apply my skills in data engineering and analytics to develop and improve tools mainly in natural language processing (NLP).
+    I apply my skills in data engineering, analytics and AI to develop and improve tools mainly in natural language processing (NLP).
   </a>
 </p>
 
-<h3 align="center">:mailbox: Reach out to me!</h3>
+
+<h2 align="center">:mailbox: Reach out to me!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jamnicki/"><img src="https://img.shields.io/badge/-jamnicki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jedrzej.jamnicki@gmail.com"><img src="https://img.shields.io/badge/-jedrzej.jamnicki-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jedrzej.jamnicki@gmail.com"><img src="https://img.shields.io/badge/-jedrzej.jamnicki@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" /></a>
 </p>
 
-<br>
-<h2 align="center">:hammer_and_wrench: I've worked with</h3>
+
+<h2 align="center">:hammer_and_wrench: I've worked with</h2>
 
 <h3 align="center">Languages</h3>
 <p align="center">
