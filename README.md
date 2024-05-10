@@ -26,7 +26,18 @@
   <a><img src="https://img.shields.io/badge/-Tensorflow-lightgray?style=flat&logo=tensorflow&logoColor=FF6F00" /></a>
   <a><img src="https://img.shields.io/badge/-🤗 transformers-gray?style=flat" /></a>
   <a><img src="https://img.shields.io/badge/-🦜️🔗 LangChain-234242?style=flat" /></a>
+  <a><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-DVC-13ADC7?style=flat&logo=dvc&logoColor=8F5AD1" /></a>
+  <a><img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-Ray-028CF0?style=flat&logo=ray&logoColor=white" /></a>
 <!--   <a><img src="https://img.shields.io/badge/-LABEL-BCGCOLOR?style=flat&logo=LOGO&logoColor=LOGOCOLOR" /></a> -->
+<!--   <a><img src="https://img.shields.io/badge/-LABEL-BCGCOLOR?style=flat&logo=LOGO&logoColor=LOGOCOLOR" /></a> -->
+<!--   <a><img src="https://img.shields.io/badge/-LABEL-BCGCOLOR?style=flat&logo=LOGO&logoColor=LOGOCOLOR" /></a> -->
+  <a><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-Flask-white?style=flat&logo=flask&logoColor=black" /></a>
 </p>
 
