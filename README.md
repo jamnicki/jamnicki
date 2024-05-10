@@ -1,7 +1,13 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <a>I'm a 21 years old student of <b>Systems Engineering</b> at Wrocław University of Science and Technology.<br>In my spare time I'm working on PWr Diving Crew project created by </a><a href="http://robocik.pwr.edu.pl/"><b>Science Club "Robocik"</b></a>
+  <a>
+    I am currently researching <i>Semi-Automated Cost-Efficient Large Language Model Data Preparation Techniques</i> as part of my master's thesis. I am learning about various aspects of AI, such as deep learning, computer vision, ethics, and   security during my studies in Artificial Intelligence at Wroclaw University of Science and Technology.
+  </a>
+  <br><br>
+  <a>
+    I apply my skills in data engineering and analytics to develop and improve tools mainly in natural language processing (NLP).
+  </a>
 </p>
 
 <h3 align="center">:mailbox: Reach out to me!</h3>
@@ -29,6 +35,7 @@
   <a><img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-scikit learn-3499CD?style=flat&logo=scikit-learn&logoColor=F7931E" /></a>
   <a><img src="https://img.shields.io/badge/-spaCy-white?style=flat&logo=spaCy&logoColor=09A3D5" /></a>
+  <a><img src="https://img.shields.io/badge/-NLTK-144D58?style=flat" /></a>
   <a><img src="https://img.shields.io/badge/-OpenCV-645BFF?style=flat&logo=opencv" /></a>
   <a><img src="https://img.shields.io/badge/-pandas-130654?style=flat&logo=pandas&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" /></a>
@@ -45,11 +52,13 @@
   <a><img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-DVC-13ADC7?style=flat&logo=dvc&logoColor=8F5AD1" /></a>
   <a><img src="https://img.shields.io/badge/-Amazon S3-569A31?style=flat&logo=amazon s3&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" /></a>
 </p>
 
 <h3 align="center">Ops</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/-docker-007bff?style=flat&logo=docker&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white" /></a>
 </p>
 
 <h3 align="center">Web</h3>
@@ -58,6 +67,16 @@
   <a><img src="https://img.shields.io/badge/-Flask-white?style=flat&logo=flask&logoColor=black" /></a>
   <a><img src="https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-AIOHTTP-2C5BB4?style=flat&logo=aiohttp&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a>.</a><br>
+  <a>.</a><br>
+  <a>.</a><br>
+  <br>
+  and many others 🙃
 </p>
 
 <!--   <a><img src="https://img.shields.io/badge/-LABEL-BCGCOLOR?style=flat&logo=LOGO&logoColor=LOGOCOLOR" /></a> -->
