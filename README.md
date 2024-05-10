@@ -11,12 +11,21 @@
   <a href="mailto:jedrzej.jamnicki@gmail.com"><img src="https://img.shields.io/badge/-jedrzej.jamnicki-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<br>
+<h2 align="center">:hammer_and_wrench: I've worked with</h3>
 
-<h3 align="center">:hammer_and_wrench: I've worked with</h3>
-
+<h3 align="center">Languages</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/-Python-1F4362?style=flat&logo=python&logoColor=F8DB51" /></a>
+  js, html
+</p>
+
+<h3 align="center">Ops</h3>
+<p align="center">
+</p>
+
+<h3 align="center">AI</h3>
+<p align="center">
   <a><img src="https://img.shields.io/badge/-docker-007bff?style=flat&logo=docker&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-git-F0F0E7?style=flat&logo=git&logoColor=F24D27" /></a>
   <a><img src="https://img.shields.io/badge/-pandas-130654?style=flat&logo=pandas&logoColor=white" /></a>
@@ -34,7 +43,7 @@
   <a><img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/-Ray-028CF0?style=flat&logo=ray&logoColor=white" /></a>
-<!--   <a><img src="https://img.shields.io/badge/-LABEL-BCGCOLOR?style=flat&logo=LOGO&logoColor=LOGOCOLOR" /></a> -->
+  <a><img src="https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white" /></a>
 <!--   <a><img src="https://img.shields.io/badge/-LABEL-BCGCOLOR?style=flat&logo=LOGO&logoColor=LOGOCOLOR" /></a> -->
 <!--   <a><img src="https://img.shields.io/badge/-LABEL-BCGCOLOR?style=flat&logo=LOGO&logoColor=LOGOCOLOR" /></a> -->
   <a><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" /></a>
