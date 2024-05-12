@@ -22,7 +22,7 @@
 
 <h2 align="center">:hammer_and_wrench: I've worked with</h2>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/-Python-1F4362?style=flat&logo=python&logoColor=F8DB51" /></a>
   <a><img src="https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E" /></a>
