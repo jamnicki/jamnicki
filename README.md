@@ -6,7 +6,7 @@
   </a>
   <br><br>
   <a>
-    I apply my skills in data engineering, analytics and AI to develop and improve tools mainly in natural language processing (NLP).
+    I apply my skills in data engineering, analytics and AI to develop and improve tools mainly in Natural Language Processing.
   </a>
 </p>
 
