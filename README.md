@@ -82,5 +82,20 @@
   and many others 🙃
 </p>
 
+<br><br>
+<h2 align="center">❔FAQ</h2>
+<details>
+  <summary><b>Question 1</b></summary>
+  This text is hidden until you click the summary.
+</details>
+<details>
+  <summary><b>Question 2</b></summary>
+  This text is hidden until you click the summary.
+</details>
+<details>
+  <summary><b>Question 3</b></summary>
+  This text is hidden until you click the summary.
+</details>
+
 <!--   <a><img src="https://img.shields.io/badge/-LABEL-BCGCOLOR?style=flat&logo=LOGO&logoColor=LOGOCOLOR" /></a> -->
 <!--   <a><img src="https://img.shields.io/badge/-LABEL-BCGCOLOR?style=flat&logo=LOGO&logoColor=LOGOCOLOR" /></a> -->
