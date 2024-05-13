@@ -22,11 +22,21 @@
 
 <h2 align="center">:hammer_and_wrench: I've worked with</h2>
 
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jamnicki&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook&langs_count=8&theme=dark"
+    style="width:30%"
+  />
+</p>
+
+<!--
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/-Python-1F4362?style=flat&logo=python&logoColor=F8DB51" /></a>
   <a><img src="https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E" /></a>
 </p>
+-->
 
 <h3 align="center">ML / AI</h3>
 <p align="center">
