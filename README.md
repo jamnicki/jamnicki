@@ -25,8 +25,8 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jamnicki&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook&langs_count=8&theme=dark"
-    style="width:30%"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jamnicki&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,Svelte&exclude_repo=gui_web_app&langs_count=8&theme=dark"
+    style="width:25%"
   />
 </p>
 
