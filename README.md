@@ -100,13 +100,17 @@
   
   > I have almost **4** years of experience in AI, **2** of which are commercial.
   >
-  > My first exposure to AI was during my recruitment to the SC Robocik, during which one of the tasks was to propose, implement and teach a deep model for the task of leaf classification. I managed to solve all the tasks and so became a member of the ML department in the SC Robocik where I could develop my interests. Almost 3 years ago, I was hired by the CLARIN-PL, R&D project at Wrocław University of Science and Technology, where I worked on natural language processing (**NLP**) tools and data engineering. Toward the end of the project, I had the pleasure of developing a Retrieval Augmented Generation (**RAG**) dialogue system for researchers at major technical universities in Europe. Worth mentioning - LangChain was at a very early stage of development at the time, and almost every component had to be customized to meet our needs.
+  > My first exposure to AI was during my recruitment to the SC Robocik, during which one of the tasks was to propose, implement and teach a deep model for the task of leaf classification. I managed to solve all the tasks and so became a member of the ML department in the SC Robocik where I could develop my interests. Almost 3 years ago, I was hired by the **CLARIN-PL**, R&D project at Wrocław University of Science and Technology, where I worked on natural language processing (**NLP**) tools and data engineering. Toward the end of the project, I had the pleasure of developing a Retrieval Augmented Generation (**RAG**) dialogue system for researchers at major technical universities in Europe. Worth mentioning - LangChain was at a very early stage of development at the time, and almost every component had to be customized to meet our needs.
 
 </details>
 
 <details>
-  <summary><b>Question 2</b></summary>
-  This text is hidden until you click the summary.
+  <summary><b>How would you rate your proficiency in the Python language?</b></summary>
+
+  > I have been programming in Python for more than **5** years, and almost **3** years in commercial projects. I think I can consider myself **almost proficient in Python**.
+  >
+  > I am familiar with concepts such as object-oriented programming (**OOP**), functional programming and data structures. I include typing, docstrings in my code and try to use appropriate technologies. When working with data, I try to use an iterative approach whenever I can to save computation time and reduce resources.
+
 </details>
 
 <details>
