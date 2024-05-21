@@ -95,8 +95,13 @@
 <br><br>
 <h2 align="center">❔FAQ</h2>
 <details>
-  <summary><b>Question 1</b></summary>
-  This text is hidden until you click the summary.
+  <summary><b>How many years of experience do you have in the field of AI?</b></summary>
+  <p align="left">
+    I have almost <b>4</b> years of experience in AI, 2 of which are commercial.
+    <br><br>
+  My first exposure to AI was during my recruitment to the SC Robocik, during which one of the tasks was to propose, implement and teach a deep model for the task of leaf classification. I managed to solve all the tasks and so became a member of the ML department in the SC Robocik where I could develop my interests. Almost 3 years ago, I was hired by the CLARIN-PL project (R&D @ WUST), where I worked on natural language processing (<b>NLP</b>) tools and data engineering. Toward the end of the project, I had the pleasure of developing a Retrieval Augmented Generation (<b>RAG</b>) dialogue system for researchers at major technical universities in Europe.
+  </p>
+
 </details>
 <details>
   <summary><b>Question 2</b></summary>
