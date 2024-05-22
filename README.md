@@ -3,7 +3,7 @@
 <!-- ===================== Bio ===================== -->
 <p align="center">
   <a>
-    I am AI/ML Engineer and AI Student at WUST seeking the passionate project to join!
+    I am an AI/ML Engineer and AI Student at WUST seeking to join a passionating project!
     <br><br>
     I am currently researching <i>Semi-Automated Cost-Efficient Large Language Model Data Preparation Techniques</i> as part of my master's thesis. I am learning about various aspects of AI, such as deep learning, computer vision, ethics, and   security during my studies in Artificial Intelligence at Wroclaw University of Science and Technology.
     <br><br>
