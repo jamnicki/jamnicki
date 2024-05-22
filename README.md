@@ -1,5 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 
+<!-- ===================== Bio ===================== -->
 <p align="center">
   <a>
     I am AI/ML Engineer and AI Student at WUST seeking the passionate project to join!
@@ -10,7 +11,7 @@
   </a>
 </p>
 
-
+<!-- ===================== Contact ===================== -->
 <h2 align="center">:mailbox: Reach out to me!</h2>
 
 <p align="center">
@@ -19,7 +20,28 @@
   <a><img src="https://img.shields.io/badge/-jjamnicki-5865F2?style=flat&logo=discord&logoColor=white" /></a>
 </p>
 
+<!-- ===================== FAQ ===================== -->
+<h2 align="center">❔FAQ</h2>
 
+<details>
+  <summary><b>How many years of experience do you have in the field of AI?</b></summary>
+  
+  > I have almost **4** years of experience in AI, **2** of which are commercial.
+  >
+  > My first exposure to AI was during my recruitment to the _SC Robocik_, during which one of the tasks was to propose, implement and teach a deep model for the task of leaf classification. I managed to solve all the tasks and so became a member of the ML department in the _SC Robocik_ where I could develop my interests. Almost 3 years ago, I was hired by the **_CLARIN-PL_**, R&D project at Wrocław University of Science and Technology, where I worked on natural language processing (**NLP**) tools and data engineering. Toward the end of the project, I had the pleasure of developing a Large Language Model (**LLM**) based, Retrieval Augmented Generation (**RAG**) dialogue system for researchers at major technical universities in Europe. The aim of the system was to improve and speed up the process of collaboration between researchers. Worth mentioning - **LangChain** was at a very early stage of development at the time, and almost every component had to be customized to meet our needs.
+
+</details>
+
+<details>
+  <summary><b>How would you rate your proficiency in the Python language?</b></summary>
+
+  > I have been programming in Python for more than **5** years, and almost **3** years in commercial projects. I think I can consider myself to be **almost proficient in Python**.
+  >
+  > I am familiar with concepts such as object-oriented programming (**OOP**), functional programming, and data structures. I include typing, docstrings in my code and try to use appropriate technologies. When working with data, I try to use an iterative approach whenever possible to save computation time and reduce resources.
+
+</details>
+
+<!-- ===================== I'VE WORKED WITH / TECHNOLOGIES ===================== -->
 <h2 align="center">:hammer_and_wrench: I've worked with</h2>
 
 <p align="center">
@@ -91,27 +113,6 @@
   <br>
   and many others 🙃
 </p>
-
-<br><br>
-<h2 align="center">❔FAQ</h2>
-
-<details>
-  <summary><b>How many years of experience do you have in the field of AI?</b></summary>
-  
-  > I have almost **4** years of experience in AI, **2** of which are commercial.
-  >
-  > My first exposure to AI was during my recruitment to the _SC Robocik_, during which one of the tasks was to propose, implement and teach a deep model for the task of leaf classification. I managed to solve all the tasks and so became a member of the ML department in the _SC Robocik_ where I could develop my interests. Almost 3 years ago, I was hired by the **_CLARIN-PL_**, R&D project at Wrocław University of Science and Technology, where I worked on natural language processing (**NLP**) tools and data engineering. Toward the end of the project, I had the pleasure of developing a Large Language Model (**LLM**) based, Retrieval Augmented Generation (**RAG**) dialogue system for researchers at major technical universities in Europe. The aim of the system was to improve and speed up the process of collaboration between researchers. Worth mentioning - **LangChain** was at a very early stage of development at the time, and almost every component had to be customized to meet our needs.
-
-</details>
-
-<details>
-  <summary><b>How would you rate your proficiency in the Python language?</b></summary>
-
-  > I have been programming in Python for more than **5** years, and almost **3** years in commercial projects. I think I can consider myself to be **almost proficient in Python**.
-  >
-  > I am familiar with concepts such as object-oriented programming (**OOP**), functional programming, and data structures. I include typing, docstrings in my code and try to use appropriate technologies. When working with data, I try to use an iterative approach whenever possible to save computation time and reduce resources.
-
-</details>
 
 
 <!--   <a><img src="https://img.shields.io/badge/-LABEL-BCGCOLOR?style=flat&logo=LOGO&logoColor=LOGOCOLOR" /></a> -->
