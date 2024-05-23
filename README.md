@@ -3,7 +3,7 @@
 <!-- ===================== Bio ===================== -->
 <p align="center">
   <a>
-    I am an AI/ML Engineer and AI Student at WUST seeking to join a passionate project!
+    I am an AI/ML Engineer and AI Student seeking to join a passionate project!
     <br><br>
     I am currently researching <i>Semi-Automated Cost-Efficient Large Language Model Data Preparation Techniques</i> as part of my master's thesis. I am learning about various aspects of AI, such as deep learning, computer vision, ethics, and   security during my studies in Artificial Intelligence at Wroclaw University of Science and Technology.
     <br><br>
@@ -28,7 +28,7 @@
   
   > I have almost **4** years of experience in AI, **2** of which are commercial.
   >
-  > My first exposure to AI was during my recruitment to the _SC Robocik_, during which one of the tasks was to propose, implement, and teach a deep model for the task of leaf classification. I managed to solve all the tasks and so became a member of the ML department in the _SC Robocik_ where I could develop my interests. Almost 3 years ago, I was hired by the **_CLARIN-PL_**, R&D project at Wrocław University of Science and Technology, where I worked on natural language processing (**NLP**) tools and data engineering. Toward the end of the project, I had the pleasure of developing a Large Language Model (**LLM**) based, Retrieval Augmented Generation (**RAG**) dialogue system for researchers at major technical universities in Europe. The aim of the system was to improve and speed up the process of collaboration between researchers. Worth mentioning - **LangChain** was at a very early stage of development at the time, and almost every component had to be customized to meet our needs.
+  > My first exposure to AI was during my recruitment to the _SC Robocik_, during which one of the tasks was to propose, implement, and teach a deep model for the task of leaf classification. I managed to solve all the tasks and so became a member of the ML department in the _SC Robocik_ where I could develop my interests. Almost 3 years ago, I was hired by the **_CLARIN-PL_**, R&D project at Wrocław University of Science and Technology, where I worked on natural language processing (**NLP**) tools and services. Toward the end of the project, I had the pleasure of developing a Large Language Model (**LLM**) based, Retrieval Augmented Generation (**RAG**) dialogue system for researchers at major technical universities in Europe. The aim of the system was to improve and speed up the process of collaboration between researchers. Worth mentioning - **LangChain** was at a very early stage of development at the time, and almost every component had to be customized to meet our needs.
 
 </details>
 
