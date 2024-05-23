@@ -37,7 +37,7 @@
 
   > I have been programming in Python for more than **5** years, and almost **3** years in commercial projects. I think I can consider myself to be **almost proficient in Python**.
   >
-  > I am familiar with concepts such as object-oriented programming (**OOP**), functional programming, and data structures. I include typing, and docstrings in my code and try to use appropriate technologies. When working with data, I try to use an iterative approach whenever possible to save computation time and reduce resources.
+  > I am familiar with concepts such as object-oriented programming (**OOP**), functional programming, and data structures. I include typing, and docstrings in my code and try to use appropriate technologies. When working with data, I try to use an iterative approach whenever possible to reduce resources and process the data in parallel to save computation time.
 
 </details>
 
