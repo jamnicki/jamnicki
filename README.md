@@ -53,11 +53,28 @@
 </p>
 
 <!--
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <a><img src="https://img.shields.io/badge/-Python-1F4362?style=flat&logo=python&logoColor=F8DB51" /></a>
-  <a><img src="https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E" /></a>
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <thead>
+      <tr>
+        <td align="left"><b>Programming<br>Language</b></td>
+        <td align="left"><b>Proficiency</b></td>
+      </tr>
+    </thead>
+    <tr>
+      <td>
+        <p align="right"><img src="https://img.shields.io/badge/-Python-1F4362?style=flat&logo=python&logoColor=F8DB51" /></p>
+      </td>
+      <td align="left">⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>
+        <p align="right"><img src="https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E" /></p>
+      </td>
+      <td align="left">⭐</td>
+    </tr>
+  </table>
+</div>
 -->
 
 <h3 align="center">ML / AI</h3>
