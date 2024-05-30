@@ -7,7 +7,7 @@
     <br><br>
     I am currently researching <i>Semi-Automated Cost-Efficient Large Language Model Data Preparation Techniques</i> as part of my master's thesis. I am learning about various aspects of AI, such as deep learning, computer vision, ethics, and   security during my studies in Artificial Intelligence at Wroclaw University of Science and Technology.
     <br><br>
-    I apply my data engineering, analytics, and AI skills to develop and improve tools mainly in Natural Language Processing.
+    I apply my data engineering, analytics, and AI skills to develop and improve tools mostly in Natural Language Processing.
   </a>
 </p>
 
