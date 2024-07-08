@@ -3,11 +3,9 @@
 <!-- ===================== Bio ===================== -->
 <p align="center">
   <a>
-    I am an AI/ML Engineer and AI Student seeking to join a passionate project!
+    I'm an AI/ML Engineer and MSc in AI seeking to join a passionate project!
     <br><br>
-    I am currently researching <i>Semi-Automated Cost-Efficient Large Language Model Data Preparation Techniques</i> as part of my master's thesis. I am learning about various aspects of AI, such as deep learning, computer vision, ethics, and   security during my studies in Artificial Intelligence at Wroclaw University of Science and Technology.
-    <br><br>
-    I apply my data engineering, analytics, and AI skills to develop and improve tools mostly in Natural Language Processing.
+    I apply my skills in AI, data engineering and analytics to develop and improve tools mainly in Natural Language Processing.
   </a>
 </p>
 
