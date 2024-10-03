@@ -3,20 +3,23 @@
 <!-- ===================== Bio ===================== -->
 <p align="center">
   <a>
-    I'm an AI/ML Engineer and MSc in AI seeking to join a passionate project!
+    I'm an AI/ML Engineer and MSc in AI
     <br><br>
     I apply my skills in AI, data engineering and analytics to develop and improve tools mainly in Natural Language Processing.
   </a>
 </p>
 
 <!-- ===================== Contact ===================== -->
+<!-- 
 <h2 align="center">:mailbox: Reach out to me!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jamnicki/"><img src="https://img.shields.io/badge/-jamnicki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" /></a>
 </p>
+-->
 
 <!-- ===================== FAQ ===================== -->
+<!--
 <h2 align="center">❔FAQ</h2>
 
 <details>
@@ -37,7 +40,10 @@
 
 </details>
 
+-->
+
 <!-- ===================== I'VE WORKED WITH / TECHNOLOGIES ===================== -->
+<!--
 <h2 align="center">:hammer_and_wrench: I've worked with</h2>
 
 <p align="center">
@@ -73,6 +79,7 @@
 </div>
 -->
 
+<!--
 <h3 align="center">ML / AI</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/-PyTorch-white?style=flat&logo=PyTorch&logoColor=EE4C2C" /></a>
@@ -126,6 +133,8 @@
   <br>
   and many others 🙃
 </p>
+
+-->
 
 
 <!--   <a><img src="https://img.shields.io/badge/-LABEL-BCGCOLOR?style=flat&logo=LOGO&logoColor=LOGOCOLOR" /></a> -->
