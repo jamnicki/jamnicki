@@ -9,6 +9,13 @@
   </a>
 </p>
 
+<br>
+
+### Contributions
+
+- **LlamaIndex**: MCP security-related bug fix &nbsp; https://github.com/run-llama/llama_index/pull/18879
+- **Argilla**: Performance fix in spaCy integrated data loader &nbsp; https://github.com/argilla-io/argilla/pull/1891 &nbsp; [Author’s shoutout](https://www.linkedin.com/posts/argilla-io_justdiggit-certificate-activity-7026889747415343104-Dore?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOvQCQB3NnkOkfY8wwZBdDgF-vCDZwyaPU)
+
 <!-- ===================== Contact ===================== -->
 <!-- 
 <h2 align="center">:mailbox: Reach out to me!</h2>
